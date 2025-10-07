@@ -67,7 +67,7 @@ A disciplina de "Computação Cognitiva, Tendências e Aplicações IA Generativ
 ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Claude.ai](https://img.shields.io/badge/Claude.ai-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
-[Saiba mais](link)
+[Saiba mais](https://github.com/WandeilsonFerreira/MBA-BI-e-Big-Data/tree/main/9%20-%20Computa%C3%A7%C3%A3o%20cognitiva%2C%20tend%C3%AAncias%20e%20aplica%C3%A7%C3%B5es%20IA%20generativas%2C%20chatbots%20e%20RPA)
 
 
 ### Engenharia de Sistemas Embarcado com Dados Para Iot
