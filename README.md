@@ -7,7 +7,7 @@ O MBA em Business Intelligence e Big Data tem por objetivo formar profissionais 
 ### Objetivos
 Oferecer aos profissionais de Administração, Gestão, Engenharias e Informática a oportunidade de aprimorar conhecimentos em BI, Big Data e Gestão Estratégica, preparando-os para atuar em áreas como análise e ciência de dados, desenvolvimento de software, segurança da informação, consultoria especializada e empreendedorismo tecnológico em um mercado em constante expansão.
 
-### Coordenação: [Ricardo Roberto de Lima](linkedin.com/in/ricardo-roberto-de-lima-1504aa7b)
+### Coordenação: [Ricardo Roberto de Lima](https://linkedin.com/in/ricardo-roberto-de-lima-1504aa7b)
  
 ---
 
